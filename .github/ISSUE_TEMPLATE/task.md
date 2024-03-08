@@ -1,8 +1,8 @@
 ---
 name: Task
 about: Get these things done
-title: "[TASK]"
-labels: ''
+title: ''
+labels: Task
 assignees: savindi-wijenayaka
 
 ---

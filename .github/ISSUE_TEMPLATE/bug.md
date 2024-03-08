@@ -1,8 +1,8 @@
 ---
 name: Bug
 about: Correct this
-title: "[BUG]"
-labels: ''
+title: ''
+labels: bug
 assignees: savindi-wijenayaka
 
 ---
