@@ -9,6 +9,7 @@ conda create -n <ENV-NAME> python=3.11 -y
 
 2. Install prerequisites
 ```bash
+conda activate <ENV-NAME>
 pip install -r requirements.txt
 ```
 
@@ -18,4 +19,4 @@ pre-commit run --all-files
 ```
 
 ## Code formatting, linting and complexity analysis
-
+- Ruff via pre-commit-hook
